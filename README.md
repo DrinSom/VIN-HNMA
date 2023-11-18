@@ -7,10 +7,10 @@ Vinusto Benjia: Ang Hinagpis ng mga Andagaw (A Filipino folklore inspired videog
 Vinusto Benjia (Vin for short) can jump, dash, crouch, and draw powers from entities that he meets along the way. Main objective is to venture out into level by level, seeking help and queries from entities whilst fending off lurking malevolent forces. There are 5 main stages wherein takes place in different regions that represent the elementals.
 
 # Controls 
-W/Spacebar - Up/Jump
-A - Go Left
-S - Crouch
-D - Go Right
+W/Spacebar - Up/Jump <br>
+A - Go Left <br>
+S - Crouch <br>
+D - Go Right <br>
 
 Z for Change Weapon
 E for Attack
