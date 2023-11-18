@@ -16,7 +16,14 @@ Z for Change Weapon
 E for Attack
 
 # Assets
-Vinusto (HQ) made by me :) 
+Vinusto Benjia (Static HQ image) illustrated by me :) 
 
 ![VinFinalHQ](https://github.com/DrinSom/VIN-HNMA/assets/151276516/9feed587-8c03-49cb-baec-e1835b79605d)
+
+Vinusto Benjia Spritesheet illustrated by me 
+
+![VinDraftAnimation_IDLE-Sheet](https://github.com/DrinSom/VIN-HNMA/assets/151276516/7db913a0-e24d-46a4-b7f1-e56b14e3baf6)
+![VinDraftAnimation_RUN-Sheet](https://github.com/DrinSom/VIN-HNMA/assets/151276516/6d98ceaf-d3ff-41c3-ab04-0f63b202cb7f)
+![VinDraftAnimation_JUMP-Sheet](https://github.com/DrinSom/VIN-HNMA/assets/151276516/02928f8b-acfa-4af5-aff4-e6b87f0fcd99)
+
 
