@@ -38,3 +38,9 @@ Created by Szadi Art (https://szadiart.itch.io/)
 
 ### Options Menu
 ![Screenshot 2023-11-04 175524](https://github.com/DrinSom/VIN-HNMA/assets/151276516/c453c959-af67-4cc0-b615-cb9c9bf4dc9b)
+
+# Level Design: Stage 1-1 
+![SOMBRANO - Figma GDD-8](https://github.com/DrinSom/VIN-HNMA/assets/151276516/5908b5ce-d479-4b43-af9b-51135fda26af)
+
+# Build File
+-- Currently Unavailable --
